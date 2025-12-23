@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "last_updated": "2025-12-23T11:25:32.398753Z",
+  "last_updated": "2025-12-23T15:51:17.334697Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
       "expiry": "2026-12-23T11:25:32Z",
-      "status": "active"
+      "status": "revoked"
     }
   }
 }
