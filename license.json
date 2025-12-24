@@ -1,10 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2025-12-24T09:15:07.101052Z",
+  "last_updated": "2025-12-24T14:40:58.429785Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
       "expiry": "2026-12-24T09:15:07Z",
+      "status": "active"
+    },
+    "6F3F9EFE9EFC267187FE6FA540F436CFC591E3924739ECB5BDB68349AD24EF52": {
+      "user": "CF",
+      "expiry": "2025-12-27T14:40:58Z",
       "status": "active"
     }
   }
