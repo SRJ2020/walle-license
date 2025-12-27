@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2025-12-27T15:51:21.575320Z",
+  "last_updated": "2025-12-27T16:00:55.009823Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -10,6 +10,11 @@
     "6F3F9EFE9EFC267187FE6FA540F436CFC591E3924739ECB5BDB68349AD24EF52": {
       "user": "User",
       "expiry": "2026-12-27T15:51:21Z",
+      "status": "active"
+    },
+    "26F8CEF6F9EB5C06C9AF65FC787A44B4277E4C84E7C002AF2B25347FF9B14C8B": {
+      "user": "Ice",
+      "expiry": "2025-12-30T16:00:55Z",
       "status": "active"
     }
   }
