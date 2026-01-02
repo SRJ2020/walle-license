@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2025-12-28T05:29:10.910287Z",
+  "last_updated": "2026-01-02T03:17:44.738266Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "SRJ",
@@ -15,7 +15,7 @@
     "26F8CEF6F9EB5C06C9AF65FC787A44B4277E4C84E7C002AF2B25347FF9B14C8B": {
       "user": "Ice",
       "expiry": "2025-12-30T16:00:55Z",
-      "status": "active"
+      "status": "revoked"
     },
     "563416945CEB547526FDAF18054BBE78B61B50C0878675ABA0D58C0BA72573F1": {
       "user": "Strange",
