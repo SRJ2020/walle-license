@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "last_updated": "2026-01-12T08:53:42.453064Z",
+  "last_updated": "2026-01-12T11:33:27.450254Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
       "expiry": "2026-01-15T08:53:42Z",
-      "status": "active"
+      "status": "revoked"
     },
     "6F3F9EFE9EFC267187FE6FA540F436CFC591E3924739ECB5BDB68349AD24EF52": {
       "user": "Coolface",
