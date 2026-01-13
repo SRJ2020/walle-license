@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-13T10:00:42.261787Z",
+  "last_updated": "2026-01-13T10:01:06Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -26,6 +26,11 @@
       "user": "Yaya",
       "expiry": "2026-01-16T07:55:54Z",
       "status": "revoked"
+    },
+    "7B4E3E58C2D6872B45652C8A81156E0C0052D03FBF7179EA15E436DC964A08C3": {
+      "user": "yaya",
+      "expiry": "2026-01-16T10:01:06Z",
+      "status": "active"
     }
   }
 }
