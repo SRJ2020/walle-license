@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-20T18:19:37Z",
+  "last_updated": "2026-01-20T18:22:03Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "SRJ",
@@ -34,7 +34,7 @@
     },
     "C95B99809485D1928DAA510D7682EBB6CE70640462EDA240D65E226AF22D8746": {
       "user": "Pew",
-      "expiry": "2026-01-21T18:19:37Z",
+      "expiry": "2026-01-22T18:19:37Z",
       "status": "active"
     }
   }
