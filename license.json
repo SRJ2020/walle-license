@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-22T06:02:47Z",
+  "last_updated": "2026-01-22T18:29:08.201682Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "SRJ",
@@ -40,7 +40,7 @@
     "9BE463BB4F6345D0A982AEF5CE19B6EFADB411578E17E563922252FB2A5B158C": {
       "user": "TB",
       "expiry": "2026-01-29T06:02:47Z",
-      "status": "active"
+      "status": "revoked"
     }
   }
 }
