@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T05:18:59.736099Z",
+  "last_updated": "2026-01-25T05:52:33.529788Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -50,7 +50,7 @@
     "315307568ABD67C50C1123DC9043D1602FBBC2946BA741B227BDA79BA5CC4B42": {
       "user": "Alpha",
       "expiry": "2026-01-25T19:32:46Z",
-      "status": "active"
+      "status": "revoked"
     }
   }
 }
