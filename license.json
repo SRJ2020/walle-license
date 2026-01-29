@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-29T04:31:28.235602Z",
+  "last_updated": "2026-01-29T04:55:35.124093Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -10,7 +10,7 @@
     "6F3F9EFE9EFC267187FE6FA540F436CFC591E3924739ECB5BDB68349AD24EF52": {
       "user": "Coolface",
       "expiry": "2028-07-18T03:32:31Z",
-      "status": "active"
+      "status": "revoked"
     },
     "26F8CEF6F9EB5C06C9AF65FC787A44B4277E4C84E7C002AF2B25347FF9B14C8B": {
       "user": "Ice",
