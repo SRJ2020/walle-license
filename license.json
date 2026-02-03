@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-02T11:26:04.153606Z",
+  "last_updated": "2026-02-03T17:58:10Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -19,7 +19,7 @@
     },
     "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {
       "user": "Strange",
-      "expiry": "2026-03-05T15:32:58Z",
+      "expiry": "2026-03-14T15:32:58Z",
       "status": "active"
     },
     "D0B6222968DBC8D1F180D96837AC3922CC6EB0EA1C23F30957057491B4703D3E": {
