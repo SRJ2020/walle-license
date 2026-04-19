@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-04T08:40:18Z",
+  "last_updated": "2026-04-19T12:54:50Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -85,6 +85,11 @@
     "18C26296691CF16F71646257CFCC8FFA4448E9B956BFF65698FCF36BCB689AFF": {
       "user": "YAYA latest",
       "expiry": "2026-04-26T15:13:19Z",
+      "status": "active"
+    },
+    "901B722A74A1B9914308E5E624F4F81BB0F8D022AE97FAE0C8A3AC987E0D1E3F": {
+      "user": "CF main",
+      "expiry": "2034-07-06T12:54:50Z",
       "status": "active"
     }
   }
