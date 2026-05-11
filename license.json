@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-27T03:10:58Z",
+  "last_updated": "2026-05-11T13:16:12Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -90,6 +90,11 @@
     "901B722A74A1B9914308E5E624F4F81BB0F8D022AE97FAE0C8A3AC987E0D1E3F": {
       "user": "CF main",
       "expiry": "2034-07-06T12:54:50Z",
+      "status": "active"
+    },
+    "D26949EC9C492E01D7B6A713D4F7E0BA075DE795754227B6A800BC880BA71E35": {
+      "user": "Professor",
+      "expiry": "2026-05-14T13:16:12Z",
       "status": "active"
     }
   }
