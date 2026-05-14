@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-11T13:16:12Z",
+  "last_updated": "2026-05-14T02:29:30Z",
   "users": {
     "FFEFF2D6AC1D267AB0ECB30F7BA56A4D347C5A32280C03EF6E60A0A6188F9E74": {
       "user": "User",
@@ -94,7 +94,7 @@
     },
     "D26949EC9C492E01D7B6A713D4F7E0BA075DE795754227B6A800BC880BA71E35": {
       "user": "Professor",
-      "expiry": "2026-05-14T13:16:12Z",
+      "expiry": "2026-06-13T13:16:12Z",
       "status": "active"
     }
   }
